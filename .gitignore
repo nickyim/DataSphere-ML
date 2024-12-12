@@ -1,4 +1,4 @@
-sp500_stocks.csv
+datasets/sp500/sp500_stocks.csv
 
 # Virtual environment
 venv/
