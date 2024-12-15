@@ -27,6 +27,7 @@ ENERGY_DATASET_TABLE = "owid_energy"
 
 
 def save_data_to_json(tb: Table, output_path: str) -> None:
+    
     tb = tb.copy()
 
     # Initialize output dictionary, that contains one item per country in the data.
