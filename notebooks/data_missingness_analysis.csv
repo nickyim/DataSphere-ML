@@ -1,0 +1,15 @@
+Feature,Missing Count,Missing Percentage
+primary_energy_consumption,42,0.9053675361069196
+energy_per_capita,42,0.9053675361069196
+renewables_share_elec,27,0.5820219874973055
+carbon_intensity_elec,27,0.5820219874973055
+country,0,0.0
+electricity_demand,0,0.0
+fossil_electricity,0,0.0
+fossil_elec_per_capita,0,0.0
+low_carbon_electricity,0,0.0
+low_carbon_elec_per_capita,0,0.0
+electricity_demand_per_capita,0,0.0
+per_capita_electricity,0,0.0
+greenhouse_gas_emissions,0,0.0
+year,0,0.0
