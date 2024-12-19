@@ -4,8 +4,8 @@
 
 A collection of three distinct machine learning projects focusing on financial analysis, medical imaging, and energy consumption patterns. Each project demonstrates different ML techniques and real-world applications.
 
-## Live Demo
-[Watch Project Demo](https://youtu.be/74mhUgSbNKc)
+# **Live Demo Link**
+[Watch Demo Here](https://youtu.be/74mhUgSbNKc)
 
 ## Projects Overview
 
