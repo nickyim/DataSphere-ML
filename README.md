@@ -25,7 +25,7 @@ A collection of three distinct machine learning projects focusing on financial a
 - **Key Features**:
   - Image preprocessing
   - Feature extraction
-  - SVM and Random Forrest Classification
+  - SVM and Random Forest Classification
 
 ### 3. Energy Consumption Clustering
 - **File**: `dataset3_notebook3.py`
