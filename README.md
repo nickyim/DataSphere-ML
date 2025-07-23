@@ -1,6 +1,6 @@
 # **DataSphere-ML**
 
-## Machine Learning Final Project
+## Machine Learning
 
 A collection of three distinct machine learning projects focusing on financial analysis, medical imaging, and energy consumption patterns. Each project demonstrates different ML techniques and real-world applications.
 
